@@ -1,0 +1,14 @@
+matplotlib
+seaborn
+pydicom
+dicom2nifti
+torch
+torchvision
+torchio
+pytorch-lightning
+pythae @ git+https://github.com/clementchadebec/benchmark_VAE.git
+vtk
+pandas
+natsort
+torchsummary
+tensorboard

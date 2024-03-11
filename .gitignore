@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# launch.json folder
+.vscode/
+*.json
+# Environment folder
+.venv/
+# Experiments folder
+experiments/
+# Weighs and Biases folder
+wandb/
